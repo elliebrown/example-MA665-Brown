@@ -5,6 +5,6 @@ Spyder Editor
 This is a temporary script file.
 """
 
-def simple-code-brown(x):
+def simplecodebrown(x):
     y = x*x+1
     return y
